@@ -1,0 +1,3 @@
+fragment helloDetails on Query {
+    hello
+}

@@ -3,8 +3,7 @@ pluginManagement {
         it.apply {
             mavenCentral()
             google()
+            gradlePluginPortal()
         }
     }
 }
-
-include(":app", ":lib")
